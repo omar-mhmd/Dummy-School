@@ -1,0 +1,66 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+   
+}
+.image-background{
+  /* min-height: 100vh; */
+  /* margin-top: -19px; */
+   z-index: -1;
+   top:0px;
+   position:absolute;
+   height: 90%;
+   width:100%;
+  
+}
+.navbar-header{
+    font-size: calc(11px + 2vmin);
+    color: black;
+    float: right;
+    padding-right:64px;
+     padding-top:40px; 
+  
+    
+}
+
+.navbar-header:hover{
+
+ background: none;
+ 
+}
+.HomePage > .image-background {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
+.ftco-services{
+
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+.col-md-3{
+    width:400px;
+}
+.flaticon-teacher,.flaticon-reading {
+    width:100px;
+    height: 100px;
+    border-radius: 50%;
+    background: white;
+     margin-top: -50px;
+    border: solid 0.3px #007bff;
+    }
+    .fa-book-reader,.fa-chalkboard-teacher{
+        color: rgb(27, 197, 248);
+       font-size: 50px;
+       margin-top: 20px;
+      cursor: pointer;
+    }
+    .bg-tertiary{
+        background-color: rgb(83, 206, 206);
+    }
+    
