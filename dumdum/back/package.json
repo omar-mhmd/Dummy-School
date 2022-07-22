@@ -35,7 +35,7 @@
     "express": "^4.17.1",
     "express-fileupload": "^1.1.6-alpha.4",
     "express-session": "^1.16.2",
-    "file-type": "^12.3.0",
+    "file-type": "^16.5.4",
     "fs": "0.0.1-security",
     "http-errors": "^1.7.3",
     "jsonwebtoken": "^8.5.1",
